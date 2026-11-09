@@ -1,0 +1,14 @@
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\bin\Debug\net8.0\11_05 - Projeto Acessos.exe
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\bin\Debug\net8.0\11_05 - Projeto Acessos.deps.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\bin\Debug\net8.0\11_05 - Projeto Acessos.runtimeconfig.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\bin\Debug\net8.0\11_05 - Projeto Acessos.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\bin\Debug\net8.0\11_05 - Projeto Acessos.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\11_05 - Projeto Acessos.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\11_05 - Projeto Acessos.AssemblyInfoInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\11_05 - Projeto Acessos.AssemblyInfo.cs
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\11_05 - Projeto Acessos.csproj.CoreCompileInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\11_05 - Projeto Acessos.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\refint\11_05 - Projeto Acessos.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\11_05 - Projeto Acessos.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\11_05 - Projeto Acessos.genruntimeconfig.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_05 - Projeto Acessos\obj\Debug\net8.0\ref\11_05 - Projeto Acessos.dll

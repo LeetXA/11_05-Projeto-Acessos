@@ -1,0 +1,24 @@
+{
+  "Usuarios": [
+    {
+      "Id": 2,
+      "Nome": "Eu mesma",
+      "Ambientes": [
+        1
+      ]
+    }
+  ],
+  "Ambientes": [
+    {
+      "Id": 1,
+      "Nome": "Show",
+      "Logs": [
+        {
+          "DtAcesso": "2026-11-09T20:01:44.7257954-03:00",
+          "UsuarioId": 2,
+          "TipoAcesso": true
+        }
+      ]
+    }
+  ]
+}
